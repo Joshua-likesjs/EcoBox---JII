@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "estufi",
+    "slug": "estu",
+
+    "android": {
+      "package": "com.joshua.cpp.estufa-jii",
+      "icon": ""
+    },
+
+    "ios": {},
+
+    "owner": "joshua.cpp",
+
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+
+    "updates": {
+      "url": "https://u.expo.dev/47f0ef15-ce97-42e0-a085-41e178ac606f"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "47f0ef15-ce97-42e0-a085-41e178ac606f"
+      }
+    }
+  }
+}

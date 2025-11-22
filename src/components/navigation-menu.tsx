@@ -2,8 +2,8 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { Button } from '../app/ui/button';
+import { Sheet, SheetContent, SheetTrigger } from '../app/ui/sheet';
 import { Menu, Home, Users, LogOut, Leaf } from 'lucide-react';
 import { logout } from '@/lib/auth';
 
