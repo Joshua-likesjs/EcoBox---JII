@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Incubadora VPJS Mobile",
+    "slug": "incubadora-vpjs-mobile",
+
+    "icon": "./assets/ovo.png",
+
+    "android": {
+      "package": "com.joshua.cpp.incubadoravpjsmobile",
+      "icon": "./assets/ovo.png"
+    },
+
+    "ios": {},
+
+    "owner": "joshua.cpp",
+
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+
+    "updates": {
+      "url": "https://u.expo.dev/47f0ef15-ce97-42e0-a085-41e178ac606f"
+    },
+
+    "extra": {
+      "eas": {
+        "projectId": "47f0ef15-ce97-42e0-a085-41e178ac606f"
+      }
+    }
+  }
+}
